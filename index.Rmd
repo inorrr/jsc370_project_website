@@ -1,0 +1,14 @@
+---
+title: "JSC370 Final Project"
+author: "Yinuo Zhao"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+This is my JSC370 Final Project website.
+
+# Part 1
+
+# Part 2
